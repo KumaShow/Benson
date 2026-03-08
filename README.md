@@ -1,4 +1,6 @@
-# Benson
+# Benson 江秉修 | 前端工程師
+
+<img src="江秉修照片.png" alt="江秉修照片" width="200" />
 
 ## 摘要
 - 7.5 年 IT 與 2.5 年軟體開發經驗（MIS 5 年 + Frontend 2.5 年），現職聚焦 ERP/WMS 產品系統開發，串接前後端功能並推動交付。
